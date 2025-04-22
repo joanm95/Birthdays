@@ -15,6 +15,7 @@
 		4EDC2BE12DB739C800A934B0 /* BirthdaysUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EDC2BE02DB739C800A934B0 /* BirthdaysUITests.swift */; };
 		4EDC2BE32DB739C800A934B0 /* BirthdaysUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EDC2BE22DB739C800A934B0 /* BirthdaysUITestsLaunchTests.swift */; };
 		4EDC2BF02DB73B8D00A934B0 /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EDC2BEF2DB73B8D00A934B0 /* Friend.swift */; };
+		4EDC2BF42DB75AEA00A934B0 /* EditFriendView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EDC2BF32DB75AEA00A934B0 /* EditFriendView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4EDC2BE02DB739C800A934B0 /* BirthdaysUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdaysUITests.swift; sourceTree = "<group>"; };
 		4EDC2BE22DB739C800A934B0 /* BirthdaysUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdaysUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		4EDC2BEF2DB73B8D00A934B0 /* Friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Friend.swift; path = ../Friend.swift; sourceTree = "<group>"; };
+		4EDC2BF32DB75AEA00A934B0 /* EditFriendView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditFriendView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				4EDC2BC42DB739C600A934B0 /* BirthdaysApp.swift */,
 				4EDC2BC62DB739C600A934B0 /* ContentView.swift */,
+				4EDC2BF32DB75AEA00A934B0 /* EditFriendView.swift */,
 				4EDC2BEF2DB73B8D00A934B0 /* Friend.swift */,
 				4EDC2BC82DB739C800A934B0 /* Assets.xcassets */,
 				4EDC2BCA2DB739C800A934B0 /* Birthdays.entitlements */,
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4EDC2BF42DB75AEA00A934B0 /* EditFriendView.swift in Sources */,
 				4EDC2BF02DB73B8D00A934B0 /* Friend.swift in Sources */,
 				4EDC2BC72DB739C600A934B0 /* ContentView.swift in Sources */,
 				4EDC2BC52DB739C600A934B0 /* BirthdaysApp.swift in Sources */,
